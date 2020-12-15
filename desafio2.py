@@ -1,0 +1,5 @@
+print ('======DESAFIO 02======')
+Dia=input('Informe o dia de seu nascimento: ')
+Mes=input('Informe o nome do mes: ')
+Ano=input('Informe o ano: ')
+print ('Voce nasceu no dia',Dia,'de',Mes,'de',Ano)
